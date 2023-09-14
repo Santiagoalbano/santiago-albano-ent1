@@ -1,0 +1,15 @@
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.csproj.AssemblyReference.cache
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.AssemblyInfoInputs.cache
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.AssemblyInfo.cs
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.csproj.CoreCompileInputs.cache
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/bin/Debug/net7.0/Santiago-albano-entr1
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/bin/Debug/net7.0/Santiago-albano-entr1.deps.json
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/bin/Debug/net7.0/Santiago-albano-entr1.runtimeconfig.json
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/bin/Debug/net7.0/Santiago-albano-entr1.dll
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/bin/Debug/net7.0/Santiago-albano-entr1.pdb
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.dll
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/refint/Santiago-albano-entr1.dll
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.pdb
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/Santiago-albano-entr1.genruntimeconfig.cache
+/Users/santiago/Documents/Coding/C#/Santiago-albano-entr1/Santiago-albano-entr1/obj/Debug/net7.0/ref/Santiago-albano-entr1.dll

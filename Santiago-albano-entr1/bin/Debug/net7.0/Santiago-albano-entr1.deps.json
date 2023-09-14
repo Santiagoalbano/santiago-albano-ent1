@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Santiago-albano-entr1/1.0.0": {
+        "runtime": {
+          "Santiago-albano-entr1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Santiago-albano-entr1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
